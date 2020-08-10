@@ -1,4 +1,4 @@
 name = "dte"
-version = "0.1"
-tag = ""
+version = "0.1.0"
 description = "Dte is a small, low bloat text editor that is focused on being ergonomic and maximizing the productivity of it's users."
+

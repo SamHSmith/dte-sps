@@ -1,2 +1,8 @@
 flags = ["qwerty"]
+enums = ["lang"]
+archs = []
+
+lang = ["en", "es"]
+
+
 
