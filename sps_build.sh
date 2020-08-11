@@ -12,7 +12,8 @@ if [ $rust_features ] ; then
 else
     cargo build
 fi
+cd ..
 
 mkdir -p $SPS_INSTALL_DIR/usr/bin
-cp target/debug/dte $SPU_INSTALL_DIR/usr/bin
+cp dte/target/debug/dte $SPS_INSTALL_DIR/usr/bin
 
